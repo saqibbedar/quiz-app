@@ -4,7 +4,7 @@ This is a interactive quiz application built with HTML, CSS, and JavaScript. The
 
 ## Preview
 
-Click [here](https://github.com/saqibbedar/quiz-app) to preview this website.
+Click [here](https://saqibbedar.github.io/quiz-app/) to preview this website.
 
 ## Getting Started
 
